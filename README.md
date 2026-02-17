@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I'm Lia
 
-<!--
-**Lia4alNoor/Lia4alNoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Cybersecurity student with a research-driven approach to threat detection, infrastructure security, and system resilience.
 
-Here are some ideas to get you started:
+I’m particularly interested in how cyber attacks translate into real operational impact — whether in enterprise environments, cloud systems, or critical infrastructure.
+ 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Focus
+
+- OT cybersecurity in substations and control centers  
+- Cyber-physical impact on power system reliability  
+- Protection relay and breaker attack surface analysis  
+- Secure remote access in critical infrastructure  
+- IEC 62443 / IEC 62351 security control implementation  
+
+---
+
+## 🧪 Technical Work
+
+- PCAP analysis using Python  
+- Lightweight Intrusion Detection System (IDS) development  
+- Log correlation and detection engineering  
+- Segmented OT lab simulations  
+- SOC monitoring methodologies for ICS environments  
+
+---
+
+## 🛠 Tools & Environment
+
+`Python` • `Wireshark` • `Linux` • `VirtualBox` • Network traffic analysis
+
+---
+
+## 📚 Current Research Direction
+
+Evaluating how inadequate segmentation and insecure remote access mechanisms increase the likelihood of cascading failures in power transmission and distribution environments.
+
+---
+
