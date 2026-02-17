@@ -1,40 +1,59 @@
-## 👋 Hi, I'm Lia
+# Hello, I'm Amal
+<a href="https://ae.linkedin.com/in/amal-nazeer-000/en"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-MSc Cybersecurity student with a research-driven approach to threat detection, infrastructure security, and system resilience.
+I am an MSc Cybersecurity student focused on security monitoring, detection engineering, and incident response.  
+My work centers on understanding how attacks manifest in logs and network traffic — and how to detect them efficiently within a SOC environment.
 
-I’m particularly interested in how cyber attacks translate into real operational impact — whether in enterprise environments, cloud systems, or critical infrastructure.
+---
+
+## Objective
+
+To join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply hands-on experience in log analysis, threat detection, and incident investigation while continuing to strengthen my blue team capabilities.
+
+---
+
+## Skills
+
+| Skill                                      | Associated Project |
+|-------------------------------------------|--------------------|
+| Network Traffic Monitoring & PCAP Analysis | <a href="https://github.com/Lia4alNoor/Pentesting-Project">PCAP Analysis Project</a> |
+| Python Scripting for Security Analysis     | <a href="https://github.com/YOUR-IDS-REPO">Lightweight IDS</a> |
+---
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Endpoint & DFIR
+<div>
+
+</div>
+
+### SIEM & Monitoring
+<div>
  
----
+</div>
 
-## 🔬 Research Focus
-
-- OT cybersecurity in substations and control centers  
-- Cyber-physical impact on power system reliability  
-- Protection relay and breaker attack surface analysis  
-- Secure remote access in critical infrastructure  
-- IEC 62443 / IEC 62351 security control implementation  
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
 
 ---
 
-## 🧪 Technical Work
+## Certifications
 
-- PCAP analysis using Python  
-- Lightweight Intrusion Detection System (IDS) development  
-- Log correlation and detection engineering  
-- Segmented OT lab simulations  
-- SOC monitoring methodologies for ICS environments  
+
 
 ---
 
-## 🛠 Tools & Environment
+## Projects
 
-`Python` • `Wireshark` • `Linux` • `VirtualBox` • Network traffic analysis
-
----
-
-## 📚 Current Research Direction
-
-Evaluating how inadequate segmentation and insecure remote access mechanisms increase the likelihood of cascading failures in power transmission and distribution environments.
-
----
-
+- 🔍 Detection Lab (SIEM + Log Analysis)
+- 🛡 Lightweight IDS (Python-based intrusion detection)
+- 📊 PCAP Analysis Project
+- ⚙ SOC Automation & Investigation Lab
