@@ -32,47 +32,31 @@ My work spans offensive security labs, defensive monitoring concepts, risk analy
 | Machine Learning & Data Analysis         | <a href="https://github.com/YOUR-USERNAME/ml-projects">ML / AI Projects</a> |
 
 ---
-
 ## Projects
 
 <details>
 <summary><strong>🔐 Penetration Testing & Security Labs</strong></summary>
 
-- **PCAP Analysis Project** – Network traffic inspection and attack pattern identification  
-- **Lightweight IDS** – Python-based intrusion detection logic  
-- **Security Labs Portfolio** – Port scanning, system enumeration, Dirb, shell scripting  
+- **PCAP Analysis Project** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) – Network traffic inspection and attack pattern identification  
+- **Lightweight IDS** ![Ongoing](https://img.shields.io/badge/Status-Ongoing-yellow) – Python-based intrusion detection logic  
+- **Security Labs Portfolio** ![To-Do](https://img.shields.io/badge/Status-To--Do-lightgrey) – Port scanning, system enumeration, Dirb, shell scripting  
 
 </details>
 
 <details>
 <summary><strong>📊 Governance, Risk & Compliance</strong></summary>
 
-- Risk assessment case studies  
-- Control mapping (ISO 27001 / NIST frameworks)  
-- Security policy and compliance documentation  
+- Risk assessment case studies ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)  
+- Control mapping (ISO 27001 / NIST frameworks) ![Ongoing](https://img.shields.io/badge/Status-Ongoing-yellow)  
+- Security policy and compliance documentation ![To-Do](https://img.shields.io/badge/Status-To--Do-lightgrey)  
 
 </details>
 
 <details>
 <summary><strong>🤖 AI / Machine Learning</strong></summary>
 
-- Classification and predictive modeling projects  
-- Data analysis coursework  
-- Applied analytical problem-solving projects  
+- Classification and predictive modeling projects ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)  
+- Data analysis coursework ![Ongoing](https://img.shields.io/badge/Status-Ongoing-yellow)  
+- Applied analytical problem-solving projects ![To-Do](https://img.shields.io/badge/Status-To--Do-lightgrey)  
 
 </details>
-
----
-
-## Tools
-
-### Network Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Operating Systems
-<div>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
