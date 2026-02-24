@@ -1,7 +1,4 @@
 # Hello, I'm Amal
-<a href="https://ae.linkedin.com/in/amal-nazeer-000/en">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 MSc Cybersecurity professional with multi-domain exposure across penetration testing, detection fundamentals, governance & risk studies, and applied machine learning.
 
