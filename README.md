@@ -1,60 +1,95 @@
 # Hello, I'm Amal
 
-MSc Cybersecurity candidate with practical laboratory experience across penetration testing, detection fundamentals, governance & risk analysis, and applied machine learning.
+MSc Cybersecurity candidate with practical laboratory experience across penetration testing, network traffic analysis, intrusion detection, governance and risk analysis, applied machine learning, and AI security research.
 
-My work focuses on offensive security exercises, defensive monitoring concepts, structured risk evaluation, and analytical modeling. Emphasis is placed on systematic assessment — from attack surface analysis to control validation and data-driven security evaluation.
+My work combines hands-on security testing with structured risk assessment and analytical modelling. I have developed Python-based security prototypes, analysed packet captures for known attack patterns, trained and evaluated machine-learning models, and built a Capability Risk Analyzer to assess declared MCP tool capabilities before deployment.
 
 ---
 
 ## Professional Focus
 
 - Penetration testing & system enumeration  
-- Network traffic analysis & intrusion detection fundamentals  
+- Network traffic analysis & rule-based intrusion detection  
 - Governance, Risk & Compliance (GRC) analysis  
 - Applied machine learning & structured data analysis  
+- Agentic AI security & MCP tool capability assessment  
 - Security documentation & technical reporting  
 
 ---
 
 ## Skills & Practical Application
 
-| Skill Area                              | Repository |
+| Skill Area | Repository |
 |------------------------------------------|------------|
-| Network Traffic Monitoring (PCAP)       | <a href="https://github.com/Lia4alNoor/Pentesting-Project">PCAP Analysis Project</a> |
-| Intrusion Detection (Python Prototype)  | <a href="https://github.com/YOUR-USERNAME/lightweight-ids">Lightweight IDS</a> |
-| System Enumeration (Windows & Linux)    | <a href="https://github.com/YOUR-USERNAME/cybersecurity-labs">Security Labs Portfolio</a> |
-| Port Scanning & Service Enumeration     | <a href="https://github.com/YOUR-USERNAME/cybersecurity-labs">Security Labs Portfolio</a> |
-| Web Directory Enumeration (Dirb)        | <a href="https://github.com/YOUR-USERNAME/cybersecurity-labs">Security Labs Portfolio</a> |
-| Risk Assessment & Control Mapping       | <a href="https://github.com/YOUR-USERNAME/grc-case-studies">GRC Case Studies</a> |
-| Machine Learning Applications           | <a href="https://github.com/YOUR-USERNAME/ml-projects">ML / AI Projects</a> |
+| Network Traffic Analysis (PCAP) | [PCAP Analysis Project](https://github.com/Lia4alNoor/Pentesting-Project) |
+| Intrusion Detection (Python Prototype) | [Lightweight IDS](https://github.com/YOUR-USERNAME/lightweight-ids) |
+| System Enumeration (Windows & Linux) | [Security Labs Portfolio](https://github.com/YOUR-USERNAME/cybersecurity-labs) |
+| Port Scanning & Service Enumeration | [Security Labs Portfolio](https://github.com/YOUR-USERNAME/cybersecurity-labs) |
+| Web Directory Enumeration (Dirb) | [Security Labs Portfolio](https://github.com/YOUR-USERNAME/cybersecurity-labs) |
+| Risk Assessment & Control Mapping | [GRC Case Studies](https://github.com/YOUR-USERNAME/grc-case-studies) |
+| Machine Learning & Analytical Modelling | [ML Projects](https://github.com/YOUR-USERNAME/ml-projects) |
+| Agentic AI Security & MCP Capability Analysis | [Capability Risk Analyzer](https://github.com/YOUR-USERNAME/ToolAnalyzer) |
 
 ---
 
 ## Projects
 
 <details>
+<summary><strong>AI Security Research</strong></summary>
+
+- **Capability Risk Analyzer** ![In Progress](https://img.shields.io/badge/Status-In--Progress-yellow) – Python and Streamlit prototype for classifying declared MCP tool capabilities and supporting pre-deployment compositional risk assessment.
+- **MCP Tool Capability Classification** ![In Progress](https://img.shields.io/badge/Status-In--Progress-yellow) – C1–C6 capability ontology and analysis of declared tool metadata, including security-indicator discrepancies and mitigation recommendations.
+
+</details>
+
+<details>
 <summary><strong>Penetration Testing & Security Labs</strong></summary>
 
-- **PCAP Analysis Project** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) – Packet inspection and attack pattern identification  
-- **Lightweight IDS** ![Ongoing](https://img.shields.io/badge/Status-Ongoing-yellow) – Signature-based intrusion detection prototype  
-- **Security Labs Portfolio** ![To-Do](https://img.shields.io/badge/Status-To--Do-lightgrey) – Port scanning, system enumeration, Dirb, shell scripting  
+- **PCAP Analysis Project** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) – Python-based packet-capture analysis using predefined rules to identify known attack patterns.
+- **Python-Based Intrusion Detection Prototype** ![In Progress](https://img.shields.io/badge/Status-In--Progress-yellow) – Rule-based detection logic, event flagging, logging, and reporting.
+- **Security Labs Portfolio** ![In Progress](https://img.shields.io/badge/Status-In--Progress-yellow) – Practical exercises involving Nmap, service enumeration, Dirb, Burp Suite, Metasploit, Linux, and Windows system enumeration.
 
 </details>
 
 <details>
 <summary><strong>Governance, Risk & Compliance</strong></summary>
 
-- Risk assessment case studies ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)  
-- Control mapping (ISO 27001 / NIST frameworks) ![Ongoing](https://img.shields.io/badge/Status-Ongoing-yellow)  
-- Security policy and compliance documentation ![To-Do](https://img.shields.io/badge/Status-To--Do-lightgrey)  
+- **Risk Assessment Case Studies** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) – Identification of threats and vulnerabilities, likelihood and impact assessment, and mitigation recommendations.
+- **ISO 27001 / NIST Control Mapping** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) – Academic application of security controls and risk-management frameworks.
+- **Security Governance & Emerging Technologies** ![In Progress](https://img.shields.io/badge/Status-In--Progress-yellow) – Analysis of governance, compliance, and security risks associated with emerging technologies and AI.
 
 </details>
 
 <details>
-<summary><strong>Machine Learning Applications</strong></summary>
+<summary><strong>Machine Learning & Analytical Modelling</strong></summary>
 
-- Classification and predictive modeling projects ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)  
-- Structured data analysis coursework ![Ongoing](https://img.shields.io/badge/Status-Ongoing-yellow)  
-- Applied analytical modeling projects ![To-Do](https://img.shields.io/badge/Status-To--Do-lightgrey)  
+- **Machine Learning Classification** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) – Implementation of Random Forest and Gradient Boosting models.
+- **Data Preparation & Feature Engineering** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) – Data cleaning, sanitisation, feature transformation, and dataset preparation.
+- **Model Tuning & Evaluation** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) – Hyperparameter tuning, performance comparison, and evaluation of predictions and errors.
 
 </details>
+
+---
+
+## Technical Skills
+
+- **Programming:** Python, Pandas, NumPy
+- **Machine Learning:** Scikit-learn, Random Forest, Gradient Boosting, model evaluation
+- **Network Security:** PCAP analysis, network traffic analysis, rule-based detection
+- **Penetration Testing:** Nmap, Kali Linux, Dirb, Burp Suite, Metasploit
+- **Systems:** Windows, Linux, command-line operations, shell scripting
+- **AI Security:** MCP metadata retrieval, tool capability classification, pre-deployment risk analysis
+- **Visualisation & Reporting:** Matplotlib, Seaborn, Streamlit, technical documentation
+- **GRC:** Risk assessment, security controls, ISO/NIST framework mapping
+
+---
+
+## Research Interests
+
+Agentic AI security, MCP tool capability assessment, compositional security risks, and governance approaches for emerging technologies. I am particularly interested in how structured pre-deployment analysis can help identify potential security concerns before AI systems are deployed.
+
+---
+
+**Explore my projects:** [GitHub Profile](https://github.com/YOUR-USERNAME)
+
+**Open to:** Entry-level cybersecurity opportunities, security testing, risk analysis, and AI security research.
